@@ -1,0 +1,9 @@
+{
+  "entryPoints": ["src/fio.ts"],
+  "out": "docs_generated",
+  "theme": "./_typedoc/custom-theme",
+  "categorizeByGroup": false,
+  "categoryOrder": ["Main", "API request/response", "Basic types", "*"],
+  "readme": "none",
+  "includeVersion": "true"
+}
