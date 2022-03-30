@@ -134,6 +134,8 @@ export class Fio {
             )
             response = stripRetcodeFromResponse(response)
 
+            console.log("AAAAAAAAAAAAAAAA")
+            console.log(response.toString("hex"))
             if (params.expectedResponseLength != null) {
                 assert(
                     response.length === params.expectedResponseLength,

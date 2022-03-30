@@ -8,6 +8,6 @@ export function* runTests(_version: Version): Interaction<void> {
         p1: 0x00,
         p2: 0x00,
         data: Buffer.alloc(0),
-        expectedResponseLength: 0,
+        expectedResponseLength: 204,
     }
 }

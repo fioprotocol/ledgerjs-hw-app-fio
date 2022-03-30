@@ -26,7 +26,7 @@ const validTx: Transaction = {
             actor: "aftyershcu22",
         },
     }],
-    transaction_extensions: null,
+    transaction_extensions: [],
 }
 
 describe("parse", () => {
