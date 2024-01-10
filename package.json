@@ -1,5 +1,5 @@
 {
-  "name": "ledgerjs-hw-app-fio",
+  "name": "@fioprotocol/ledgerjs-hw-app-fio",
   "version": "0.0.1",
   "files": [
     "dist"
